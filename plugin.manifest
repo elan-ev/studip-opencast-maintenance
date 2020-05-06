@@ -1,0 +1,8 @@
+pluginname=OpenCastMaintenance
+pluginclassname=OpenCastMaintenance
+origin=elan-ev
+version=0.0.1
+studipMinVersion=4.0
+studipMaxVersion=4.5.99
+summary=Vorlesungsaufzeichnung
+category = Inhalte und Aufgabenstellungen
